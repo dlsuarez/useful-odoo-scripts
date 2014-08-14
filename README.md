@@ -8,4 +8,4 @@ Scripts to make some common tasks from odoo easier
 
 ## oca_downloader
 
-* Python script to download all packets from Comunity Branch of Odoo in the most recent version (except master).
+* Python script to download all packets from Comunity Branch of Odoo in the most recent version (excepting master).
