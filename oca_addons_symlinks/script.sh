@@ -25,6 +25,7 @@ cd $OCA_PARENT_PATH
 # CREATE SYMBOLIC LINKS
 # @param string $1 Absolute path to the real folder
 # @param string $2 Relative path to the symbolic link
+# @param string $3 Name of the addon
 # -----------------------------------------------------------------------------
 function createSymbLink() {
   local REAL=$1
