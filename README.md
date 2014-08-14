@@ -1,5 +1,4 @@
 # useful-odoo-scripts
-===================
 
 Scripts to make some common tasks from odoo easier
 
