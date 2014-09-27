@@ -183,3 +183,4 @@ service nginx restart
 
 # Removing temporal passphrase file
 rm /tmp/secret-$$.tmp
+
